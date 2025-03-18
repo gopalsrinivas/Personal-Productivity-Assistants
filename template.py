@@ -10,7 +10,7 @@ list_of_files = [
     "backend/ingest_data.py",
     "backend/model.py",
     "static/app.js",
-    "static/style.css",
+    "static/styles.css",
     "app.py",
     ".env",
     "Dockerfile",
